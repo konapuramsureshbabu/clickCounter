@@ -1,0 +1,24 @@
+.container {
+  background-color: #f1f5f8;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+.heading {
+  color: #2d3a35;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 45px;
+}
+.description {
+}
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+}
+.color {
+  color: #c20a72;
+  font-weight: bold;
+  font-size: 45px;
+}
